@@ -1,1 +1,1 @@
-# -krotas-shop
+# krotas-shop
